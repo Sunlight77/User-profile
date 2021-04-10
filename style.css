@@ -1,0 +1,20 @@
+h1 {
+  text-align: center;
+}
+
+h2 {
+  font-family: Arial, Helvetica, sans-serif;
+}
+.text-bg {
+  background-color: green;
+  color: white;
+}
+
+.font-col {
+  color:aqua;
+}
+
+#strike {
+  text-decoration: line-through;
+}
+
